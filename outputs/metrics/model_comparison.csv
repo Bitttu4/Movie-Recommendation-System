@@ -1,0 +1,3 @@
+Model,Precision@5,Recall@5,F1 Score
+CountVectorizer,0.74,0.68,0.71
+TF-IDF,0.82,0.77,0.79

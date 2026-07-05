@@ -1,0 +1,3 @@
+Model,Execution Time (seconds)
+CountVectorizer,0.00013113021850585938
+TF-IDF,0.00011301040649414062
