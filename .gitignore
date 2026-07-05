@@ -1,0 +1,79 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Virtual Environments
+# ==========================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# IDEs
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Python Packaging
+# ==========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==========================
+# Logs and Temporary Files
+# ==========================
+*.log
+*.tmp
+*.temp
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ==========================
+# Coverage Reports
+# ==========================
+.coverage
+htmlcov/
+
+# ==========================
+# Model Files (Optional)
+# Uncomment if you generate these later
+# ==========================
+# *.pkl
+# *.joblib
+
+# ==========================
+# Keep Project Outputs
+# ==========================
+# images/
+# outputs/
